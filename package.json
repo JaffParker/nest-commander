@@ -36,9 +36,9 @@
   "homepage": "https://jmcdo29.github.io/nest-commander",
   "devDependencies": {
     "@algolia/client-search": "^4.14.2",
-    "@angular-devkit/core": "14.0.5",
-    "@angular-devkit/schematics": "14.0.5",
-    "@angular-devkit/schematics-cli": "14.0.5",
+    "@angular-devkit/core": "15.0.3",
+    "@angular-devkit/schematics": "15.0.3",
+    "@angular-devkit/schematics-cli": "15.0.3",
     "@astrojs/preact": "^1.2.0",
     "@astrojs/react": "^1.2.2",
     "@changesets/cli": "2.25.2",
