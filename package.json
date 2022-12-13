@@ -8,7 +8,6 @@
     "format": "prettier \"{packages,integration}/**/{src,test}/*.ts\"",
     "format:check": "pnpm format -- --check",
     "format:write": "pnpm format -- --write",
-    "postinstall": "husky install",
     "release": "changeset publish",
     "nx": "nx",
     "deploy": "nx deploy docs",
